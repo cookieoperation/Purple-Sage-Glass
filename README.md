@@ -26,7 +26,7 @@ https://github.com/cookieoperation/purple-sage-glass/
 
 | | |
 | :---: | :---: |
-| ![light-main](light-main.png) | ![light-device](light-device.png) |
+| ![light-main](./light-main.png) | ![light-device](./light-device.png) |
 
 ## dark mode
 

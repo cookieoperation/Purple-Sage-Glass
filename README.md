@@ -19,4 +19,4 @@ https://github.com/cookieoperation/purple-sage-glass/
 
 ## light mode:
 
-!(./Light-main.png)
+! (./Light-main.png)

@@ -19,16 +19,14 @@ https://github.com/cookieoperation/purple-sage-glass/
 
 ## light mode:
 
-<p float="left">
-  <img src="./Light-main.png" alt="light-main" width="45%" />
-  <img src="./Light-device.png" alt="light-device" width="45%" />
-</p>
 | | |
+| :---: | :---: |
+| ![light-main](./light-main.png) | ![light-device](./light-device.png) |
 | ![light-main](./Light-main.png) | ![light-device](./Light-device.png) |
 
 ## dark mode
 
-<p float="left">
-  <img src="./Dark-main.png" alt="Dark-main" width="45%" />
-  <img src="./Dark-device.png" alt="Dark-device" width="45%" />
-</p>
+| | |
+| :---: | :---: |
+| ![Dark-main](./Dark-main.png) | ![Dark-device](./Dark-device.png) |
+| ![Dark-main](./Dark-main.png) | ![Dark-device](./Dark-device.png) |

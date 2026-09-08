@@ -11,8 +11,7 @@ this is a home assistant theme for people who are cool! 😎
 
 # Installation 
 install is easy!
-just enter the GitHub url below into HACS custom REPO
-
+just enter the GitHub url below into HACS custom Repository 
         https://github.com/cookieoperation/purple-sage-glass
 
 # Screenshots

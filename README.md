@@ -13,7 +13,7 @@ this is a home assistant theme for people who are cool! 😎
 install is easy!
 just enter the GitHub url below into HACS custom REPO
 
-https://github.com/cookieoperation/purple-sage-glass/
+~~~https://github.com/cookieoperation/purple-sage-glass/~~~
 
 # Screenshots
 

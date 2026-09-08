@@ -5,6 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/cookieoperation/Purple-Sage-Glass?style=for-the-badge)](https://github.com/cookieoperation/Purple-Sage-Glass/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/cookieoperation/Purple-Sage-Glass?style=for-the-badge)](https://github.com/cookieoperation/Purple-Sage-Glass/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/cookieoperation/Purple-Sage-Glass?style=for-the-badge)](https://github.com/cookieoperation/Purple-Sage-Glass/stargazers)
+
 this is a home assistant theme for people who are cool! 😎 
 …and who like Purple & Sage.
 

@@ -1,1 +1,4 @@
-json { "name": "Purple Sage Glass - A theme for people who love purple & sage", "render_readme": true }
+json { 
+  "name": "Purple Sage Glass - A theme for people who love purple & sage",
+  "render_readme": true 
+}
